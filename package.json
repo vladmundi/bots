@@ -1,0 +1,20 @@
+{
+  "name": "creator",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.html",
+  "dependencies": {
+    "brim": "^1.0.13",
+    "grunt-contrib-uglify": "^3.4.0",
+    "sass": "^1.13.0",
+    "scream": "^2.2.3"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vlad",
+  "license": "ISC"
+}
